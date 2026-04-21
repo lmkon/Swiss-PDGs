@@ -1,5 +1,6 @@
 from grid_class import *
-from streamlit_extras.switch_page_button import switch_page
+# Dead import removed — `switch_page_button` was dropped from streamlit-extras 0.5+.
+# It was never actually called in this module.
 import time
 
 
